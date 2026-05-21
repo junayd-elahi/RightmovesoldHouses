@@ -78,6 +78,4 @@ OCR: EasyOCR
 Analysis: Pandas, NumPy
 Visualisation: Matplotlib
 
-## Licence
 
-MIT
